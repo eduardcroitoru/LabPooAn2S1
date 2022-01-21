@@ -3,6 +3,7 @@
 Croitoru Eduard Adrian, grupa 261
 
 Aplicatie Biblioteca muzicala / Spotifake
+
 v0.3
 
 Concept:
